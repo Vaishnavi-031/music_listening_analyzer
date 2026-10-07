@@ -48,6 +48,7 @@ music_listening_analyzer/
 ├── data.sql
 ├── analysis_queries.sql
 └── README.md
+```
 
 ## How to Run
 
